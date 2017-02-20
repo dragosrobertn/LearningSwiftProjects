@@ -1,5 +1,6 @@
-# LearningSwiftTutorials
-Collection of personal Swift projects used as starting point to learn the language 💻 
+# Learning Swift Projects
+Collection of personal Swift projects used as starting point to learn the Swift Language 💻. 
+These are not tutorials, but finished projects, meant to show development process and progress.
 
 - [Temperature Converter ](https://github.com/dragosrobertn/TemperatureConverter) - Single View, Buttons, Labels, Storyboards
 - [Swift Calculator](https://github.com/dragosrobertn/SwiftCalculator) - Single View, Image Assets, Classes
